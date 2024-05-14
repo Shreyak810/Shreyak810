@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 style="text-align: center;">Hi👋 , I am Shreya Khambe !</h1>
 
+![Profile views](https://komarev.com/ghpvc/?username=Shreyak810)
 <!--
 **Shreyak810/Shreyak810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
