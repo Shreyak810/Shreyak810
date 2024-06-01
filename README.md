@@ -7,6 +7,8 @@ Passionate frontend developer and competitive programmer
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5MmFlcTh2NnI2bG41MmE2dm5objEwYW1iMXE5MThybnFkejF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Penguin Working">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyak810&label=Profile%20views&color=0e75b6&style=flat" alt="shreyak810" /> </p>
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [khambeshreya8102003@gmail.com](mailto:khambeshreya8102003@gmail.com)
