@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Shreya Khambe!
 =====================================================================================================================================
 
-Passionate frontend developer and competitive programmer
+Passionate MERN developer and competitive programmer
 --------------------------------------------------------
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5MmFlcTh2NnI2bG41MmE2dm5objEwYW1iMXE5MThybnFkejF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Penguin Working">
